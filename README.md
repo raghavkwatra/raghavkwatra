@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img align="right" src="https://github.com/user-attachments/assets/9a078cc5-d519-4814-9dee-48104a9e0973" width="280px" alt="Coding GIF" />
+  <img align="right" src="https://github.com/user-attachments/assets/9a078cc5-d519-4814-9dee-48104a9e0973" width="200px" alt="Coding GIF" />
 </p>
 
 <p>
