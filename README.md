@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghavkwatra&show_icons=true&theme=tokyonight&hide=issues" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavkwatra&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavkwatra&theme=tokyonight" width="48%" height = "177px" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkwatra&layout=compact&theme=tokyonight" width="50%" />
 </p>
