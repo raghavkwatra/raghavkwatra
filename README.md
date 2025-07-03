@@ -34,16 +34,22 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=raghavkwatra&show_icons=true&theme=tokyonight&hide=issues" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavkwatra&theme=tokyonight" width="400"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavkwatra&show_icons=true&theme=tokyonight&hide=issues" width="48%" />
-
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkwatra&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkwatra&layout=compact&theme=tokyonight" width="400" />
 </p>
-
----
 
 ### 💻 LeetCode Stats
 
