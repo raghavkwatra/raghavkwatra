@@ -12,22 +12,17 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        🎓 A <b>Computer Science graduate</b> (CGPA: 8.5)<br>
-        💼 Skilled in <b>Java, Spring Boot, Spring Security, MySQL</b><br>
-        🧠 Strong focus on <b>backend engineering</b>, data-driven systems & secure APIs<br>
-        📚 Currently expanding skills in deployment, DevOps & microservices<br>
-        🎯 Goal: Become a full-time <b>Software Development Engineer (SDE)</b><br>
-      </p>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/9a078cc5-d519-4814-9dee-48104a9e0973" width="280px" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="right" src="https://github.com/user-attachments/assets/9a078cc5-d519-4814-9dee-48104a9e0973" width="280px" alt="Coding GIF" />
+</p>
+
+<p>
+  🎓 A <b>Computer Science graduate</b> (CGPA: 8.5)<br>
+  💼 Skilled in <b>Java, Spring Boot, Spring Security, MySQL</b><br>
+  🧠 Strong focus on <b>backend engineering</b>, data-driven systems & secure APIs<br>
+  📚 Currently expanding skills in deployment, DevOps & microservices<br>
+  🎯 Goal: Become a full-time <b>Software Development Engineer (SDE)</b><br>
+</p>
 
 ---
 
