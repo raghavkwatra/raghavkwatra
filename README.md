@@ -34,7 +34,8 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+
+<h3 align="left">📊 GitHub Stats</h3>
 
 <table align="center">
   <tr>
@@ -50,6 +51,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkwatra&layout=compact&theme=tokyonight" width="400" />
 </p>
+
+---
 
 ### 💻 LeetCode Stats
 
