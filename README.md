@@ -1,10 +1,6 @@
 
-<h1 align="center" style="color:#00ADB5; font-family:'Fira Code', monospace;">
-  Hi there, I'm Raghav Kwatra 👋
-</h1>
-<h3 align="center" style="color:#00ADB5; font-family:'Fira Code', monospace;">
-  Backend Developer | Java Enthusiast | Tech Explorer
-</h3>
+<h1 align="center"><code>Hi there, I'm Raghav Kwatra 👋</code></h1>
+<h3 align="center"><code>Backend Developer | Java Enthusiast | Tech Explorer</code></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+Specialist+%E2%9C%A8;Always+Learning+New+Tech+%F0%9F%93%9A;Let's+Build+Something+Great+Together+%F0%9F%9A%80" alt="Typing SVG" />
