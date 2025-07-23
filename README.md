@@ -53,7 +53,7 @@
 ### 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/raghavkwatraa?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/raghavkwatra?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
